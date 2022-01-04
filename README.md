@@ -1,5 +1,5 @@
 # qiskit-HHL
-A small package with the implementation of the quantum algorithm HHL based on https://arxiv.org/abs/1802.08227 in Qiskit.
+A jupyter notebook with the implementation of the quantum algorithm HHL based on https://arxiv.org/abs/1802.08227 in Qiskit.
 
 This project requires Python 3 and the following Python libraries installed:
 
